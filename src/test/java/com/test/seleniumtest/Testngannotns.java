@@ -18,6 +18,7 @@ public class Testngannotns {
 			System.out.println("Setup method is for chrome or any browser ");
 				
 		}
+		// new change
 		
 		@BeforeTest
 		public void launchbrowser() {	
